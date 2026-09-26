@@ -7,9 +7,9 @@ He works where business strategy and engineering have to fit together, and write
 ## Site
 
 - [Home](https://ogera.is-a.dev/): Introduction and summary
-- [Work](https://ogera.is-a.dev/#work): Ventures and builds
-- [About](https://ogera.is-a.dev/#about): Experience and education
-- [Contact](https://ogera.is-a.dev/#contact): Email and social profiles
+- [Work](https://ogera.is-a.dev/work): Ventures and builds
+- [About](https://ogera.is-a.dev/about): Experience and education
+- [Contact](https://ogera.is-a.dev/contact): Email and social profiles
 - [CV (PDF)](https://ogera.is-a.dev/assets/Samuel_Ogera_CV.pdf): Full curriculum vitae
 
 ## Ventures
