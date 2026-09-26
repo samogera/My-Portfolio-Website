@@ -1,0 +1,62 @@
+# Samuel Ogera
+
+> Samuel Ogera (also Samuel Ogera Hillary, "samogera") is a Nairobi-based founder and software engineer. He is Founder & CEO of MatXchange, Co-Founder & CEO of Aximo Hub, and was Co-Founder & CTO of GridFlow Solar. He is building the operating system for Africa's circular economy.
+
+He works where business strategy and engineering have to fit together, and writes the code for his own products. He trained as a software engineer at Moringa School and is studying Entrepreneurial Leadership at African Leadership University (2024 – 2028).
+
+## Site
+
+- [Home](https://ogera.is-a.dev/): Introduction and summary
+- [Work](https://ogera.is-a.dev/#work): Ventures and builds
+- [About](https://ogera.is-a.dev/#about): Experience and education
+- [Contact](https://ogera.is-a.dev/#contact): Email and social profiles
+- [CV (PDF)](https://ogera.is-a.dev/assets/Samuel_Ogera_CV.pdf): Full curriculum vitae
+
+## Ventures
+
+- [MatXchange](https://matxchange.co.ke): Founder & CEO, Nov 2024 – present. The digital backbone for Africa's waste supply chain. Every kilogram is weighed on IoT scales, recorded on the Stellar blockchain and paid to the collector instantly through M-Pesa. Seed funded by the Tony Elumelu Foundation (2025), incubated by Bridge for Billions, live pilot with a licensed scrap-metal yard in Ongata Rongai, represented at KIICO 2026. Built on Frappe/ERPNext, Python, Stellar, M-Pesa API and IoT.
+- [Aximo Hub](https://aximohub.com): Co-Founder & CEO, 2026 – present. An advisory and execution firm in Nairobi for companies and investors entering or growing in East Africa. Incorporated June 2026.
+- [GridFlow Solar](https://gridflowsolar.com): Co-Founder & CTO, Mar 2025 – Jun 2026 (exited). Pay-as-you-go solar for off-grid schools and communities; Samuel built the full-stack PAYG wallet (TypeScript, Firebase, Tailwind). Selected for the Mercedes-Benz beVisioneers Fellowship and Bridge for Billions.
+
+## Other builds
+
+- [Credora](https://credora-nine.vercel.app/): Decentralized, AI-powered credit scoring on Stellar and Soroban smart contracts, using on-chain identity and alternative data. Source: https://github.com/samogera/Credora
+- [Gallant Group website](https://gallant-group.com/): Built while Software Engineer at Gallant Branding International (Apr – Aug 2026), where he also developed the ThreadTrace waste traceability platform.
+
+## Experience
+
+- Founder & CEO, MatXchange (Nov 2024 – present)
+- Co-Founder & CEO, Aximo Hub (2026 – present)
+- Software Engineer, Gallant Branding International (Apr – Aug 2026)
+- Co-Founder & CTO, GridFlow Solar (Mar 2025 – Jun 2026, exited)
+- Community Manager & Ambassador, Stellar East Africa (May 2025 – May 2026)
+- Growth Intern, Zindua School (May – Jul 2025)
+- Consumer Insights Extern, Beats by Dre (Sep – Oct 2024)
+
+## Education
+
+- African Leadership University: BA Entrepreneurial Leadership (2024 – 2028)
+- Moringa School: Software Engineering (2024)
+
+## Programmes and recognition
+
+- Tony Elumelu Foundation Entrepreneurship Programme 2025 (seed funded)
+- Bridge for Billions
+- Mercedes-Benz beVisioneers Fellowship
+- McKinsey.org Forward
+- Frappeverse Africa 2026
+- KIICO 2026
+
+## Skills
+
+- Engineering: Python, Django, Frappe/ERPNext, React, TypeScript, Stellar, Soroban, M-Pesa API, IoT
+- Business: Company formation, go-to-market, financial modelling, market research
+- Leadership: Leading teams, stakeholder engagement, community building, public speaking
+
+## Contact
+
+- Email: samuelohillary@gmail.com
+- LinkedIn: https://www.linkedin.com/in/samuelogera/
+- GitHub: https://github.com/samogera
+- X: https://x.com/Samuelohillary
+- Instagram: https://www.instagram.com/samuel.ogera/

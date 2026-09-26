@@ -1,0 +1,12 @@
+/* TEAM */
+Name: Samuel Ogera
+Role: Founder & software engineer
+Location: Nairobi, Kenya
+Contact: samuelohillary@gmail.com
+GitHub: https://github.com/samogera
+LinkedIn: https://www.linkedin.com/in/samuelogera/
+
+/* SITE */
+Last update: 2026-09-26
+Language: English
+Standards: HTML5, CSS3, schema.org JSON-LD

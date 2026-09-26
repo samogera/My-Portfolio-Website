@@ -1,0 +1,16 @@
+{
+  "name": "Samuel Ogera",
+  "short_name": "Samuel Ogera",
+  "description": "Founder & software engineer building the operating system for Africa's circular economy.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcfbfc",
+  "theme_color": "#fcfbfc",
+  "icons": [
+    {
+      "src": "/assets/og-samuel-ogera.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ]
+}
