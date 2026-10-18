@@ -1,6 +1,6 @@
 # samogera-portfolio
 
-Personal site of Samuel Ogera: founder of MatXchange and Aximo Hub, software engineer in Nairobi.
+Personal site of Samuel Ogera: founder of MatXchange and Dhow Partners, software engineer in Nairobi.
 
 Live at https://ogera.is-a.dev
 
